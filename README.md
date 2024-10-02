@@ -28,9 +28,9 @@ Para que o sistema funcione corretamente, é necessário configurar a conexão c
 - **Port**: Por padrão, utilize `5432`.
 **Exemplo de configuração**: No meu exemplo, utilizei `localhost` como servidor, mas você pode especificar outro servidor, se necessário.
 
-# 6. Acesse `projeto_auth/lib/login_controller.dart` no seu projeto
+# 5. Acesse `projeto_auth/lib/login_controller.dart` no seu projeto
 
-# 4. Preencha os campos Para configuração do email
+# 6. Preencha os campos Para configuração do email
 
 - **Smpt**: adicione o servidor smpt do seu email exemplo :  Outlook: smtp.office365.com (porta 587), Gmail: smtp.gmail.com (porta 587)
 - **Username**: insira seu email
