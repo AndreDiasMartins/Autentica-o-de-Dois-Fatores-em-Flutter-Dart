@@ -73,7 +73,7 @@ CREATE TABLE tbuserstoken (
 
 
 ## Executando o Projeto
-Após configurar a conexão com o banco de dados, você pode executar o sistema de agendamento e começar a utilizá-lo.
+Após configurar a conexão com o banco de dados, você pode executar o sistema de 2fe e começar a utilizá-lo.
 
 ## Contribuições
 Sinta-se à vontade para contribuir com melhorias ou relatar problemas. Pull requests são bem-vindos!
